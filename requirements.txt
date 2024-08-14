@@ -1,0 +1,7 @@
+pandas
+plotly
+streamlit
+pandas-datareader
+matplotlib
+matplotlib.pyplot
+csv
